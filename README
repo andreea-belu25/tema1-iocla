@@ -1,0 +1,14 @@
+I used 4 additional functions:
+     -> init_info_sensor to initialize the area where the data specific to each type of sensor is kept
+     -> print for display according to the requirement according to the type of sensor
+     -> check for faulty/correct sensor verification
+     -> analyze for calling fct from operations.c according to the passed operator
+Main:
+     -> open binary file
+     -> readings
+     -> allocations
+     -> addition in vector/ vectors
+     -> additional fct calls in fct of the string read from the keyboard
+     -> removal from vectors
+     -> displacements
+     -> closing binary file
